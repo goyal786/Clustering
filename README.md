@@ -1,8 +1,8 @@
-##Description
+## Description
 This project performs a comprehensive comparison of clustering algorithms on the Wine Quality dataset. It evaluates different preprocessing techniques and clustering methods to identify the best approach for grouping wines based on their chemical properties.
 
-##Features
-#Multiple Preprocessing Techniques:
+## Features
+# Multiple Preprocessing Techniques:
 
 Standard Scaling
 
@@ -14,7 +14,7 @@ PCA (2 components)
 
 Raw data (no preprocessing)
 
-#Clustering Algorithms:
+# Clustering Algorithms:
 
 K-Means
 
@@ -26,7 +26,7 @@ Spectral Clustering
 
 Gaussian Mixture Models (GMM)
 
-#Evaluation Metrics:
+# Evaluation Metrics:
 
 Silhouette Score
 
@@ -36,7 +36,7 @@ Davies-Bouldin Index
 
 Runtime comparison
 
-#Visualizations:
+# Visualizations:
 
 Performance comparison plots
 
